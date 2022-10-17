@@ -1,5 +1,9 @@
 {
   "private": true,
+  "name": "winterjam",
+  "version": "1.0.0",
+  "description": "The WinterJam website source.",
+  "repository": "https://github.com/KiriCattus/winterjam.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
